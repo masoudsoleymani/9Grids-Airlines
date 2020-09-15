@@ -29,5 +29,5 @@ Take a look:)  https://masoudsoleymani.github.io/9Grids-Airlines/index.html
 
 # Screens
 
-![](images/video1.mov)
+![](images/Screen 1.png)
 
