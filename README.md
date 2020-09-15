@@ -1,2 +1,33 @@
-# 9Grids-Airlines
-This repository is for a replicate design of 9Grids Airlines.
+# This Repositories is for a replicate design of 9Grids-Airlines
+
+
+Take a look:)  https://masoudsoleymani.github.io/9Grids-Airlines/index.html
+
+
+
+
+# Features
+- Large Background video
+- Relevant content
+
+
+
+
+
+
+# Technologies
+- HTML5
+- CSS3
+
+
+
+
+# Status
+- Ongoing
+
+
+
+# Screens
+
+![](images/Screen 1.png)
+
